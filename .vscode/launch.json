@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch P10_U1",
+            "request": "launch",
+            "mainClass": "P10_U1",
+            "projectName": "Ejer1.java_649fdde2"
+        },
+        {
+            "type": "java",
+            "name": "Launch P9_U1",
+            "request": "launch",
+            "mainClass": "P9_U1",
+            "projectName": "Ejer1.java_649fdde2"
+        },
+        {
+            "type": "java",
+            "name": "Launch P8_U1",
+            "request": "launch",
+            "mainClass": "P8_U1",
+            "projectName": "Ejer1.java_649fdde2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Ej1",
+            "request": "launch",
+            "mainClass": "Ej1",
+            "projectName": "Ejer1.java_649fdde2"
+        },
+        {
+            "type": "java",
+            "name": "Launch P7_U1",
+            "request": "launch",
+            "mainClass": "P7_U1",
+            "projectName": "Ejer1.java_649fdde2"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch P1_U1",
+            "request": "launch",
+            "mainClass": "P1_U1",
+            "projectName": "Ejer1.java_649fdde2"
+        },
+        {
+            "type": "java",
+            "name": "Launch P2_U1",
+            "request": "launch",
+            "mainClass": "P2_U1",
+            "projectName": "Ejer1.java_649fdde2"
+        },
+        {
+            "type": "java",
+            "name": "Launch P3_U1",
+            "request": "launch",
+            "mainClass": "P3_U1",
+            "projectName": "Ejer1.java_649fdde2"
+        },
+        {
+            "type": "java",
+            "name": "Launch P4_U1",
+            "request": "launch",
+            "mainClass": "P4_U1",
+            "projectName": "Ejer1.java_649fdde2"
+        },
+        {
+            "type": "java",
+            "name": "Launch P5_U1",
+            "request": "launch",
+            "mainClass": "P5_U1",
+            "projectName": "Ejer1.java_649fdde2"
+        },
+        {
+            "type": "java",
+            "name": "Launch P6_U1",
+            "request": "launch",
+            "mainClass": "P6_U1",
+            "projectName": "Ejer1.java_649fdde2"
+        }
+    ]
+}
